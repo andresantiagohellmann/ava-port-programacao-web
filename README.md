@@ -1,4 +1,4 @@
-# Programação Web - Portifólio
+# AVA Programação Web - Portifólio
 
 - Criei o projeto Spring Boot Java
 - Implementei o modelo de domínio
@@ -7,6 +7,3 @@
 - Povoei os banco de dados
 - CRUD - Create, Retrieve, Update, Delete
 - Tratamento
-
-
-# ava-port-programacao-web
